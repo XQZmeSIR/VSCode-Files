@@ -44,7 +44,7 @@
 # print(f'Last owened moto is {last_owened.title()}.')   # пример с Ф строкой
 
 
-# last_owened = moto.pop(0)    # pop method can be used for deleting 
+# last_owened = moto.pop(0)    # pop method can be used for deleting
 # print(f'Last owened moto is {last_owened.title()}.')  # a particular item in the list
 
 # motorcycles = ['honda', 'yamaha', 'suzuki', 'ducati']
@@ -69,55 +69,39 @@
 
 # Exercise 3.4
 
-guests1 = ['Alex', 'Ivan']
-guests2 = ['Paul', 'Charles']
+# guests1 = ['Alex', 'Ivan']
+# guests2 = ['Paul', 'Charles']
 
-#invite1 = guests1.pop(0)
-#invite2 = guests1.pop(0)
-#invite3 = guests2.pop(0)
-#invite4 = guests2.pop(0)
+# invite1 = guests1.pop(0)
+# invite2 = guests1.pop(0)
+# invite3 = guests2.pop(0)
+# invite4 = guests2.pop(0)
 
-#print(f"Welcome, {invite1}!")
-#print(f"Welcome, {invite2}!")
-#print(f"Welcome, {invite3}!")
-#print(f"Welcome, {invite4}!")
+# print(f"Welcome, {invite1}!")
+# print(f"Welcome, {invite2}!")
+# print(f"Welcome, {invite3}!")
+# print(f"Welcome, {invite4}!")
 
 # вроде все
 
 
 # Exersize 3.5
 
-#print("Unfortunatly,", invite1, "will not be able to attend our meeting")
+# print("Unfortunatly,", invite1, "will not be able to attend our meeting")
 
-del guests1[1]
+# del guests1[1]
 
-guests1.append("Maxim")
+# guests1.append("Maxim")
 
-invite1 = guests1.pop(0)
-invite2 = guests1.pop(0)
-invite3 = guests2.pop(0)
-invite4 = guests2.pop(0)
-
-
-print(f"Welcome, {invite1}!")
-print(f"Welcome, {invite2}!")
-print(f"Welcome, {invite3}!")
-print(f"Welcome, {invite4}!")
+# invite1 = guests1.pop(0)
+# invite2 = guests1.pop(0)
+# invite3 = guests2.pop(0)
+# invite4 = guests2.pop(0)
 
 
+# print(f"Welcome, {invite1}!")
+# print(f"Welcome, {invite2}!")
+# print(f"Welcome, {invite3}!")
+# print(f"Welcome, {invite4}!")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# print(print)
