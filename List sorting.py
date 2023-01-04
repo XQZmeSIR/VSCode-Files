@@ -32,7 +32,7 @@
 
 # #  быстро определить длину списка с помощью функции len().
 # cars = ['bmw', 'audi', 'toyota', 'subaru']
-# print(len(cars))
+# print(len(cars))+
 
 
 
