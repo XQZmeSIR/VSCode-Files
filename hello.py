@@ -11,3 +11,12 @@ a = 20
 g = 29999
 print(a + g)
 
+
+
+print('hello world')
+
+print
+
+
+
+
